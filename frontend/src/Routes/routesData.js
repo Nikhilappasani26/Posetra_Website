@@ -174,6 +174,7 @@ const GoodIssueForProcessOrderList = React.lazy(() =>
     '../components/Manufacturing/GoodsIssueProcessOrder/ListGoodsIssue.jsx'
   )
 );
+
 const EditGoodIssueForProcessOrder = React.lazy(() =>
   import(
     '../components/Manufacturing/GoodsIssueProcessOrder/EditGoodsIssue.jsx'
